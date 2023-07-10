@@ -1,2 +1,2 @@
 #!/bin/bash
-prel -e 'print reverse <>'
+rev
